@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10563656007",
+    "project_id": "auth1-dac6a",
+    "storage_bucket": "auth1-dac6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10563656007:android:ef20432eff1d472000d462",
+        "android_client_info": {
+          "package_name": "com.example.auth1_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10563656007-cbq2i88m6jupa34lck58s98r3gre5mpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRRU9xR4Nuyr1u-kP8tACVgyyUQk3GRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10563656007-cbq2i88m6jupa34lck58s98r3gre5mpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
